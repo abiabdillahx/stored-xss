@@ -10,3 +10,8 @@
 
 
 https://8b5f729c5264.ngrok-free.app/
+
+<meta http-equiv="refresh" content="0; url=http://127.0.0.1:3000/admin">
+<script>
+location.href = "http://127.0.0.1:3000/admin"
+</script>
